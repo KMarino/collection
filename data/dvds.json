@@ -10496,5 +10496,32 @@
     "watched": false,
     "watchlist": false,
     "year": "2013"
+  },
+  {
+    "actors": "Channing Tatum, Jamie Foxx, Maggie Gyllenhaal",
+    "added_at": "2026-07-26T19:07:02.520917+00:00",
+    "director": "Roland Emmerich",
+    "genre": "Action, Drama, Thriller",
+    "id": "494f71b7-2c11-4de0-bf32-9fed7f222897",
+    "imdb_id": "tt2334879",
+    "imdb_rating": "6.3",
+    "location": "Big DVD binder",
+    "my_rating": null,
+    "notes": "",
+    "plot": "While on a tour of the White House with his young daughter, a Capitol policeman springs into action to save his child and protect the president from a heavily armed group of dangerous terrorists.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZkMmRiY2EtOTljZS00MjJjLWFiNDQtNjEwYWE0NWNkYjI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "runtime": "131 min",
+    "status": "owned",
+    "tags": [
+      "Action Movie",
+      "Disaster Film",
+      "2010s Blockbuster",
+      "D.C. Setting",
+      "Government Thriller"
+    ],
+    "title": "White House Down",
+    "watched": false,
+    "watchlist": false,
+    "year": "2013"
   }
 ]
