@@ -277,6 +277,7 @@
     "imdb_id": "tt0319343",
     "imdb_rating": "7.1",
     "location": "Case",
+    "my_rating": 4.0,
     "notes": "",
     "plot": "A man raised by Santa's elves travels from the North Pole to New York City to meet his biological father, who doesn't know he exists and is in desperate need of some Christmas spirit.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDQ0ZWE2NzgtNGNhMC00MDIwLWI1MjUtYjYxZGRiM2UyYTQzXkEyXkFqcGc@._V1_SX300.jpg",
@@ -289,7 +290,7 @@
       "Comedy Classic"
     ],
     "title": "Elf",
-    "watched": false,
+    "watched": true,
     "watchlist": false,
     "year": "2003"
   },
@@ -302,6 +303,7 @@
     "imdb_id": "tt0087332",
     "imdb_rating": "7.8",
     "location": "Big DVD binder",
+    "my_rating": 4.0,
     "notes": "",
     "plot": "Armed with proton packs, four paranormal investigators battle mischievous ghouls in New York.",
     "poster": "https://m.media-amazon.com/images/M/MV5BYWE0YzYxNDUtMjk2ZC00NTEyLWE1MjktNzFkMjdjOWEwNTcyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
@@ -313,7 +315,7 @@
       "Comedy Classic"
     ],
     "title": "Ghostbusters",
-    "watched": false,
+    "watched": true,
     "watchlist": false,
     "year": "1984"
   },
@@ -543,7 +545,7 @@
     "imdb_id": "tt0096787",
     "imdb_rating": "6.8",
     "location": "Kid's Binder",
-    "my_rating": null,
+    "my_rating": 3.0,
     "notes": "",
     "plot": "A canine angel, Charlie, sneaks back to earth from heaven but ends up befriending an orphan girl who can speak to animals. In the process, Charlie learns that friendship is the most heavenly gift of all.",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTBlYTA0ZDUtNjJhMS00Y2UxLTk5MzAtMjBlYTAyN2FkMmNlXkEyXkFqcGc@._V1_SX300.jpg",
@@ -558,7 +560,7 @@
       "Animated Comedy"
     ],
     "title": "All Dogs Go to Heaven",
-    "watched": false,
+    "watched": true,
     "watchlist": false,
     "year": "1989"
   },
@@ -571,7 +573,7 @@
     "imdb_id": "tt0034492",
     "imdb_rating": "7.3",
     "location": "Kid's Binder",
-    "my_rating": null,
+    "my_rating": 3.0,
     "notes": "",
     "plot": "The story of a young deer growing up in the forest.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTIyZDk5NDItZmU5Yy00N2Y5LWI2ZDItMzEyZDhiYjI3MDdmXkEyXkFqcGc@._V1_SX300.jpg",
@@ -583,7 +585,7 @@
       "Disney"
     ],
     "title": "Bambi",
-    "watched": false,
+    "watched": true,
     "watchlist": false,
     "year": "1942"
   },
@@ -723,7 +725,7 @@
     "imdb_id": "tt0097958",
     "imdb_rating": "7.5",
     "location": "Big DVD binder",
-    "my_rating": null,
+    "my_rating": 5.0,
     "notes": "",
     "plot": "The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
     "poster": "https://m.media-amazon.com/images/M/MV5BZDgxYzI2YWItNmUyNS00ZWE4LWEzZDctYTk1M2VkYjhkOWVmXkEyXkFqcGc@._V1_SX300.jpg",
@@ -737,7 +739,7 @@
       "National Lampoon"
     ],
     "title": "National Lampoon's Christmas Vacation",
-    "watched": false,
+    "watched": true,
     "watchlist": false,
     "year": "1989"
   },
@@ -1257,7 +1259,7 @@
     "imdb_id": "tt0499549",
     "imdb_rating": "7.9",
     "location": "Big DVD binder",
-    "my_rating": null,
+    "my_rating": 3.0,
     "notes": "",
     "plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg",
@@ -1268,7 +1270,7 @@
       "2000s"
     ],
     "title": "Avatar",
-    "watched": false,
+    "watched": true,
     "watchlist": false,
     "year": "2009"
   },
@@ -1281,7 +1283,7 @@
     "imdb_id": "tt1630029",
     "imdb_rating": "7.5",
     "location": "Big DVD binder",
-    "my_rating": null,
+    "my_rating": 3.0,
     "notes": "",
     "plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_SX300.jpg",
@@ -1293,7 +1295,7 @@
       "Visual Spectacle"
     ],
     "title": "Avatar: The Way of Water",
-    "watched": false,
+    "watched": true,
     "watchlist": false,
     "year": "2022"
   },
@@ -10512,6 +10514,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTZkMmRiY2EtOTljZS00MjJjLWFiNDQtNjEwYWE0NWNkYjI4XkEyXkFqcGc@._V1_SX300.jpg",
     "runtime": "131 min",
     "status": "owned",
+    "synced_to_sheet": true,
     "tags": [
       "Action Movie",
       "Disaster Film",
