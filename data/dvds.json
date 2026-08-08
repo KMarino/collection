@@ -13269,5 +13269,32 @@
     "watched": false,
     "watchlist": false,
     "year": "2004"
+  },
+  {
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+    "added_at": "2026-08-08T17:23:44.735828+00:00",
+    "director": "Richard Marquand",
+    "genre": "Action, Adventure, Fantasy",
+    "id": "fc836e1b-deb2-4009-8189-3b28c68aa680",
+    "imdb_id": "tt0086190",
+    "imdb_rating": "8.3",
+    "location": "Big DVD binder",
+    "my_rating": null,
+    "notes": "",
+    "plot": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_SX300.jpg",
+    "runtime": "131 min",
+    "status": "owned",
+    "tags": [
+      "Sci-Fi Classic",
+      "Space Opera",
+      "80s",
+      "Fantasy Epic",
+      "Star Wars"
+    ],
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "watched": false,
+    "watchlist": false,
+    "year": "1983"
   }
 ]
