@@ -13190,5 +13190,81 @@
     "watched": false,
     "watchlist": false,
     "year": "1972"
+  },
+  {
+    "actors": "Michael B. Jordan, Jack O&apos;Connell, Hailee Steinfeld",
+    "added_at": "2026-08-08T17:01:38.519434+00:00",
+    "director": "Ryan Coogler",
+    "genre": "Action, Drama, Horror",
+    "id": "abd62b67-88d8-4a5c-aa2a-7e18c944d6e2",
+    "imdb_id": "tt31193180",
+    "imdb_rating": "7.5",
+    "location": "Big DVD binder",
+    "my_rating": null,
+    "notes": "",
+    "plot": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "runtime": "137 min",
+    "status": "owned",
+    "tags": [
+      "Thriller",
+      "2025"
+    ],
+    "title": "Sinners",
+    "watched": false,
+    "watchlist": false,
+    "year": "2025"
+  },
+  {
+    "actors": "Ewan McGregor, Liam Neeson, Natalie Portman",
+    "added_at": "2026-08-08T17:02:18.619894+00:00",
+    "director": "George Lucas",
+    "genre": "Action, Adventure, Fantasy",
+    "id": "ab0781e2-a0e0-4ef4-87ee-7ed36d30ffc6",
+    "imdb_id": "tt0120915",
+    "imdb_rating": "6.5",
+    "location": "Big DVD binder",
+    "my_rating": null,
+    "notes": "",
+    "plot": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long-dormant Sith resurface to claim their former glory.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "runtime": "136 min",
+    "status": "owned",
+    "tags": [
+      "Star Wars",
+      "Space Opera",
+      "Epic Fantasy",
+      "90s Sci-Fi"
+    ],
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "watched": false,
+    "watchlist": false,
+    "year": "1999"
+  },
+  {
+    "actors": "Tom Hanks, Catherine Zeta-Jones, Chi McBride",
+    "added_at": "2026-08-08T17:03:08.461109+00:00",
+    "director": "Steven Spielberg",
+    "genre": "Comedy, Drama, Romance",
+    "id": "ff24ebf5-8f0a-4543-9f21-9d405df1848a",
+    "imdb_id": "tt0362227",
+    "imdb_rating": "7.4",
+    "location": "Big DVD binder",
+    "my_rating": null,
+    "notes": "",
+    "plot": "An Eastern European tourist unexpectedly finds himself stranded at JFK airport and must take up temporary residence there.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTIwNTMxOF5BMl5BanBnXkFtZTcwNjIxMjQyMw@@._V1_SX300.jpg",
+    "runtime": "128 min",
+    "status": "owned",
+    "tags": [
+      "Comedy",
+      "Romance",
+      "Drama",
+      "Airport"
+    ],
+    "title": "The Terminal",
+    "watched": false,
+    "watchlist": false,
+    "year": "2004"
   }
 ]
