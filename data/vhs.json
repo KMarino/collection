@@ -1293,5 +1293,26 @@
     "watched": false,
     "watchlist": false,
     "year": "1963"
+  },
+  {
+    "actors": "Rod Taylor, Betty Lou Gerson, J. Pat O'Malley",
+    "added_at": "2026-08-16T22:34:00.082463+00:00",
+    "director": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
+    "genre": "Animation, Adventure, Comedy",
+    "id": "731fdaf2-0859-4d34-9b0c-d1e15b0b9912",
+    "imdb_id": "tt0055254",
+    "imdb_rating": "7.3",
+    "location": "",
+    "my_rating": null,
+    "notes": "",
+    "plot": "When a litter of Dalmatian puppies are abducted by the minions of Cruella De Vil, the owners must find them before she uses them for a diabolical fashion statement.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTIyMzVmNmItYWFkNS00YWJkLTk3YTEtNTVhMmQ0ODFjYmY1XkEyXkFqcGc@._V1_SX300.jpg",
+    "runtime": "79 min",
+    "status": "owned",
+    "tags": [],
+    "title": "One Hundred and One Dalmatians",
+    "watched": false,
+    "watchlist": false,
+    "year": "1961"
   }
 ]
