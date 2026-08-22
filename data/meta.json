@@ -1,9 +1,17 @@
 {
   "collections": [
     {
-      "count": 616,
+      "count": 641,
       "id": "dvds"
+    },
+    {
+      "count": 60,
+      "id": "vhs"
+    },
+    {
+      "count": 0,
+      "id": "books"
     }
   ],
-  "updated_at": "2026-08-17T02:13:41.359358+00:00"
+  "updated_at": "2026-08-22T18:12:05.363698+00:00"
 }
