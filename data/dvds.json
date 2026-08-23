@@ -16645,5 +16645,59 @@
     "watched": false,
     "watchlist": false,
     "year": "1986"
+  },
+  {
+    "actors": "Anika Noni Rose, Keith David, Oprah Winfrey",
+    "added_at": "2026-08-22T18:13:27.058129+00:00",
+    "director": "Ron Clements, John Musker",
+    "genre": "Animation, Adventure, Comedy",
+    "id": "dc6a06a2-ffcd-4e06-b18a-26c0f8dc3cb3",
+    "imdb_id": "tt0780521",
+    "imdb_rating": "7.2",
+    "location": "Kid's Binder",
+    "my_rating": null,
+    "notes": "",
+    "plot": "A waitress desperate to fulfill her dreams as a restaurant owner is set on a journey to turn a frog prince back into a human, but she has to face the same problem after she kisses him.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTE3YTExYTEtOTUxZC00OTM0LWJmYmItMDk5YjczNmIwNzA2XkEyXkFqcGc@._V1_SX300.jpg",
+    "runtime": "97 min",
+    "status": "owned",
+    "tags": [
+      "Disney",
+      "Animation",
+      "Musical",
+      "Family",
+      "Animated Classic",
+      "New Orleans"
+    ],
+    "title": "The Princess and the Frog",
+    "watched": false,
+    "watchlist": false,
+    "year": "2009"
+  },
+  {
+    "actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+    "added_at": "2026-08-23T00:46:24.394746+00:00",
+    "director": "Robert Zemeckis",
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "id": "981aeb78-20e6-4d78-b850-fff8f7a9c0ee",
+    "imdb_id": "tt0088763",
+    "imdb_rating": "8.5",
+    "location": "Big DVD binder",
+    "my_rating": null,
+    "notes": "",
+    "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg",
+    "runtime": "116 min",
+    "status": "owned",
+    "tags": [
+      "Sci-Fi Classic",
+      "80s",
+      "Family",
+      "Time Travel"
+    ],
+    "title": "Back to the Future",
+    "watched": false,
+    "watchlist": false,
+    "year": "1985"
   }
 ]
