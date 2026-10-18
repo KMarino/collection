@@ -1314,5 +1314,26 @@
     "watched": false,
     "watchlist": false,
     "year": "1961"
+  },
+  {
+    "actors": "Demi Moore, Jason Alexander, Mary Kay Bergman",
+    "added_at": "2026-10-17T04:16:54.312863+00:00",
+    "director": "Gary Trousdale, Kirk Wise",
+    "genre": "Animation, Drama, Family",
+    "id": "a91e9224-5e9b-4de6-a2e8-5346fb7a4ac6",
+    "imdb_id": "tt0116583",
+    "imdb_rating": "7.0",
+    "location": "Case",
+    "my_rating": null,
+    "notes": "",
+    "plot": "A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGVmNWJlMWEtNTViYi00MTVjLTgxMTctNDg4MTlhMWEyZTMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "runtime": "91 min",
+    "status": "owned",
+    "tags": [],
+    "title": "The Hunchback of Notre Dame",
+    "watched": false,
+    "watchlist": false,
+    "year": "1996"
   }
 ]
