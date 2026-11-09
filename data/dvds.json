@@ -24008,5 +24008,59 @@
     "watched": false,
     "watchlist": false,
     "year": "2013"
+  },
+  {
+    "actors": "Kristen Bell, William Jackson Harper, Jameela Jamil",
+    "added_at": "2026-11-09T05:09:29.211308+00:00",
+    "director": "",
+    "genre": "Comedy, Drama, Fantasy",
+    "id": "e0e02a2a-841b-450c-ad66-9504e8af22ee",
+    "imdb_id": "tt4955642",
+    "imdb_rating": "8.2",
+    "location": "TV/other binder",
+    "my_rating": null,
+    "notes": "",
+    "plot": "Eleanor Shellstrop, a deceased saleswoman who lived a morally corrupt life, finds herself in a heaven-like afterlife in a case of mistaken identity and tries to hide her past in order to stay there.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI3ZGRhNDYtNDFjOS00OGFlLTg4NTEtYjZjYTViY2ZiMzBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "runtime": "22 min",
+    "status": "owned",
+    "tags": [
+      "Comedy",
+      "Sitcom",
+      "NBC",
+      "Moral Philosophy",
+      "Afterlife"
+    ],
+    "title": "The Good Place",
+    "watched": false,
+    "watchlist": false,
+    "year": "2016\u20132020"
+  },
+  {
+    "actors": "Dermot Morgan, Ardal O&apos;Hanlon, Frank Kelly",
+    "added_at": "2026-11-09T05:09:52.959310+00:00",
+    "director": "",
+    "genre": "Comedy",
+    "id": "3b8b4b93-c989-4ec0-a9f3-dc5457c68d6c",
+    "imdb_id": "tt0111958",
+    "imdb_rating": "8.6",
+    "location": "TV/other binder",
+    "my_rating": null,
+    "notes": "",
+    "plot": "Three misfit priests and their housekeeper live on Craggy Island, not the peaceful and quiet part of Ireland that it seems to be.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NmMzNkZDAtYzEyMy00NzY2LTlhMmMtNzc2M2M5ZTk2MmY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "runtime": "2 min",
+    "status": "owned",
+    "tags": [
+      "Irish Comedy",
+      "90s Sitcom",
+      "Clerical Farce",
+      "BBC",
+      "British TV"
+    ],
+    "title": "Father Ted",
+    "watched": false,
+    "watchlist": false,
+    "year": "1995\u20131998"
   }
 ]
